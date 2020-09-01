@@ -8,3 +8,5 @@ Use FBI or a similar application to install .cia files.
 
 If you are using FBI, you need:
 The latest release of FBI (the .cia and .3dsx files) https://github.com/Steveice10/FBI/releases/latest.
+
+All ROMS are compiled here: https://mega.nz/folder/FehEiQBL#fB0TzlL4uU-QGgM9-PEFCQ

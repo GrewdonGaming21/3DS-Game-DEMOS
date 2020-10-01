@@ -1,12 +1,9 @@
 # Grewdon3DS-Rep
 
-I am placing some roms that I have legally obtained, you may use them for (Citra)[https://citra-emu.org/download/] if you like.
+I am placing some roms that I have legally obtained, you may use them for [Citra](https://citra-emu.org/download/) to demo the game if you like.
 
-For hacking resources for your 3DS, go to https://3ds.hacks.guide/. You may find this helpful when you are hacking your Old/New 3DS.
+I own these games and I will give proof later. I used GodMode9 to use these for Citra.
 
-Use FBI or a similar application to install .cia files.
+All ROMS are compiled here: [Mega](https://mega.nz/folder/FehEiQBL#fB0TzlL4uU-QGgM9-PEFCQ)
 
-If you are using FBI, you need:
-The latest release of (FBI)[https://github.com/Steveice10/FBI/releases/latest] (the .cia and .3dsx files).
-
-All ROMS are compiled here: https://mega.nz/folder/FehEiQBL#fB0TzlL4uU-QGgM9-PEFCQ
+This shouldn't be piracy, this would be "borrowing" these files for Citra use. If you really like the game and have an old3DS or a new3DS, consider buying it.
